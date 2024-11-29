@@ -377,7 +377,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		785CCDB329A7350100137015 /* XCRemoteSwiftPackageReference "async-http-client" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/The-Igor/async-http-client";
+			repositoryURL = "https://github.com/swiftuiux/async-http-client";
 			requirement = {
 				branch = main;
 				kind = branch;
